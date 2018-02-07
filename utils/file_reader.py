@@ -14,7 +14,7 @@ class YamlReader():
         self._data = None
 
     @property
-    def data(self):
+    def data(self):  #如果是第一次调用data，就读取yaml文档，否则就直接返回之前保存的数据
         if not self._data:
             with open(self.yamlf,'rb') as f:
                 self._data = list(yaml.safe_load_all(f))

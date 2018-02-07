@@ -12,7 +12,7 @@ REPORT_PATH = os.path.join(BASE_PATH, 'report')
 
 
 class Config:
-    def __init__(self, config=CONFIG_FILE):
+    def __init__(self, config=CONFIG_FILE):  #默认传入config配置文件的路径
         self.config = YamlReader(config).data
 
     def get(self,element,index=0):

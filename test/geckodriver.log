@@ -3778,3 +3778,120 @@ JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/stat
 JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%E5%98%89%E7%A6%BE&json=1&p=3&sid=1433_19035_21106_17001_25177_22158&req=2&csor=2&pwd=%E5%98%89&cb=jQuery1102017019507636426534_1513161981359&_=1513161981362, line 1: TypeError: jQuery1102017019507636426534_1513161981359 is not a function
 JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%E5%98%89%E7%A6%BE%E5%8E%BF&json=1&p=3&sid=1433_19035_21106_17001_25177_22158&req=2&csor=3&pwd=%E5%98%89%E7%A6%BE&cb=jQuery1102017019507636426534_1513161981359&_=1513161981363, line 1: TypeError: jQuery1102017019507636426534_1513161981359 is not a function
 1513161982227	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1517971736029	geckodriver	INFO	Listening on 127.0.0.1:53513
+1517971737486	geckodriver::marionette	INFO	Starting browser d:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1517971753526	Marionette	INFO	Enabled via --marionette
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+Unable to read VR Path Registry from C:\Users\dell\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 11240, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\dell\AppData\Local\openvr\openvrpaths.vrpath
+[Child 6132, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1517971776267	Marionette	INFO	Listening on port 53519
+1517971777263	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\dell\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%E6%B9%96&json=1&p=3&sid=1440_21112_20929&req=2&csor=1&cb=jQuery1102032690680482178436_1517971790879&_=1517971790881, line 1: TypeError: jQuery1102032690680482178436_1517971790879 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%E6%B9%96%E5%8D%97&json=1&p=3&sid=1440_21112_20929&req=2&csor=2&pwd=%E6%B9%96&cb=jQuery1102032690680482178436_1517971790879&_=1517971790882, line 1: TypeError: jQuery1102032690680482178436_1517971790879 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%E6%B9%96%E5%8D%97%E7%9C%81&json=1&p=3&sid=1440_21112_20929&req=2&csor=3&pwd=%E6%B9%96%E5%8D%97&cb=jQuery1102032690680482178436_1517971790879&_=1517971790883, line 1: TypeError: jQuery1102032690680482178436_1517971790879 is not a function
+Unable to read VR Path Registry from C:\Users\dell\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11456, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11456, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1517971801391	geckodriver	INFO	Listening on 127.0.0.1:53647
+1517971802519	geckodriver::marionette	INFO	Starting browser d:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1517971809242	Marionette	INFO	Enabled via --marionette
+1517971812906	Marionette	INFO	Listening on port 53654
+1517971813117	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\dell\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%E5%98%89%E7%A6%BE&json=1&p=3&sid=25639_1439_18195_21119_18559_17001&req=2&csor=2&pwd=%E5%98%89&cb=jQuery1102012681842255532294_1517971820659&_=1517971820662, line 1: TypeError: jQuery1102012681842255532294_1517971820659 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%E5%98%89%E7%A6%BE%E5%8E%BF&json=1&p=3&sid=25639_1439_18195_21119_18559_17001&req=2&csor=3&pwd=%E5%98%89%E7%A6%BE&cb=jQuery1102012681842255532294_1517971820659&_=1517971820663, line 1: TypeError: jQuery1102012681842255532294_1517971820659 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%E5%98%89&json=1&p=3&sid=25639_1439_18195_21119_18559_17001&req=2&csor=1&cb=jQuery1102012681842255532294_1517971820659&_=1517971820661, line 1: TypeError: jQuery1102012681842255532294_1517971820659 is not a function
+1517971825571	geckodriver	INFO	Listening on 127.0.0.1:53736
+1517971826870	geckodriver::marionette	INFO	Starting browser d:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1517971828912	Marionette	INFO	Enabled via --marionette
+1517971832941	Marionette	INFO	Listening on port 53742
+1517971833185	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\dell\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%E6%B9%96&json=1&p=3&sid=1443_21097_17001_22075&req=2&csor=1&cb=jQuery110207868825947743913_1517971837338&_=1517971837340, line 1: TypeError: jQuery110207868825947743913_1517971837338 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%E6%B9%96%E5%8D%97&json=1&p=3&sid=1443_21097_17001_22075&req=2&csor=2&pwd=%E6%B9%96&cb=jQuery110207868825947743913_1517971837338&_=1517971837341, line 1: TypeError: jQuery110207868825947743913_1517971837338 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%E6%B9%96%E5%8D%97%E7%9C%81&json=1&p=3&sid=1443_21097_17001_22075&req=2&csor=3&pwd=%E6%B9%96%E5%8D%97&cb=jQuery110207868825947743913_1517971837338&_=1517971837342, line 1: TypeError: jQuery110207868825947743913_1517971837338 is not a function
+1517971842804	geckodriver	INFO	Listening on 127.0.0.1:53821
+1517971843956	geckodriver::marionette	INFO	Starting browser d:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1517971845673	Marionette	INFO	Enabled via --marionette
+1517971849073	Marionette	INFO	Listening on port 53828
+1517971849398	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\dell\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%E5%98%89&json=1&p=3&sid=25576_1421_21094_22072&req=2&csor=1&cb=jQuery110207887435847169119_1517971852522&_=1517971852524, line 1: TypeError: jQuery110207887435847169119_1517971852522 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%E5%98%89%E7%A6%BE%E5%8E%BF&json=1&p=3&sid=25576_1421_21094_22072&req=2&csor=3&pwd=%E5%98%89%E7%A6%BE&cb=jQuery110207887435847169119_1517971852522&_=1517971852526, line 1: TypeError: jQuery110207887435847169119_1517971852522 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%E5%98%89%E7%A6%BE&json=1&p=3&sid=25576_1421_21094_22072&req=2&csor=2&pwd=%E5%98%89&cb=jQuery110207887435847169119_1517971852522&_=1517971852525, line 1: TypeError: jQuery110207887435847169119_1517971852522 is not a function
+1517992390479	geckodriver	INFO	Listening on 127.0.0.1:60183
+1517992392436	geckodriver::marionette	INFO	Starting browser d:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1517992404869	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\dell\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 13288, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\dell\AppData\Local\openvr\openvrpaths.vrpath
+[Child 13180, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1517992425449	Marionette	INFO	Listening on port 60189
+1517992426187	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\dell\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%E6%B9%96&json=1&p=3&sid=25638_1433_25548_21081_17001_20930&req=2&csor=1&cb=jQuery110204168514823216424_1517992436334&_=1517992436336, line 1: TypeError: jQuery110204168514823216424_1517992436334 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%E6%B9%96%E5%8D%97&json=1&p=3&sid=25638_1433_25548_21081_17001_20930&req=2&csor=2&pwd=%E6%B9%96&cb=jQuery110204168514823216424_1517992436334&_=1517992436337, line 1: TypeError: jQuery110204168514823216424_1517992436334 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%E6%B9%96%E5%8D%97%E7%9C%81&json=1&p=3&sid=25638_1433_25548_21081_17001_20930&req=2&csor=3&pwd=%E6%B9%96%E5%8D%97&cb=jQuery110204168514823216424_1517992436334&_=1517992436338, line 1: TypeError: jQuery110204168514823216424_1517992436334 is not a function
+1517992448674	geckodriver	INFO	Listening on 127.0.0.1:60327
+1517992451609	geckodriver::marionette	INFO	Starting browser d:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1517992456191	Marionette	INFO	Enabled via --marionette
+1517992460468	Marionette	INFO	Listening on port 60341
+1517992461376	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\dell\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%E5%98%89&json=1&p=3&sid=25575_1449_21095_18560_20928&req=2&csor=1&cb=jQuery110204849719305173672_1517992471010&_=1517992471012, line 1: TypeError: jQuery110204849719305173672_1517992471010 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%E5%98%89%E7%A6%BE&json=1&p=3&sid=25575_1449_21095_18560_20928&req=2&csor=2&pwd=%E5%98%89&cb=jQuery110204849719305173672_1517992471010&_=1517992471013, line 1: TypeError: jQuery110204849719305173672_1517992471010 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%E5%98%89%E7%A6%BE%E5%8E%BF&json=1&p=3&sid=25575_1449_21095_18560_20928&req=2&csor=3&pwd=%E5%98%89%E7%A6%BE&cb=jQuery110204849719305173672_1517992471010&_=1517992471014, line 1: TypeError: jQuery110204849719305173672_1517992471010 is not a function
+Unable to read VR Path Registry from C:\Users\dell\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 13168, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\dell\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7484, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1517992895296	geckodriver	INFO	Listening on 127.0.0.1:60491
+1517992897106	geckodriver::marionette	INFO	Starting browser d:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1517992899692	Marionette	INFO	Enabled via --marionette
+[GFX1-]: Failed to connect GPU process
+[GFX1-]: [D3D11] failed to get compositor device.
+[GFX1-]: [D3D11] Failed to init compositor with reason: FEATURE_FAILURE_D3D11_NO_DEVICE
+[GFX1-]: [D3D11] failed to get compositor device.
+[GFX1-]: [D3D11] Failed to init compositor with reason: FEATURE_FAILURE_D3D11_NO_DEVICE
+[GFX1-]: Could not get a DXGI adapter
+[GFX1-]: Could not get a DXGI adapter
+1517992921497	Marionette	INFO	Listening on port 60497
+Unable to read VR Path Registry from C:\Users\dell\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10344, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10344, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1517992921843	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\dell\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+[GFX1-]: Could not get a DXGI adapter
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%E6%B9%96&json=1&p=3&sid=1430_19037_21082_17001_22072&req=2&csor=1&cb=jQuery1102020842320679765847_1517992940135&_=1517992940137, line 1: TypeError: jQuery1102020842320679765847_1517992940135 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%E6%B9%96%E5%8D%97&json=1&p=3&sid=1430_19037_21082_17001_22072&req=2&csor=2&pwd=%E6%B9%96&cb=jQuery1102020842320679765847_1517992940135&_=1517992940138, line 1: TypeError: jQuery1102020842320679765847_1517992940135 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%E6%B9%96%E5%8D%97%E7%9C%81&json=1&p=3&sid=1430_19037_21082_17001_22072&req=2&csor=3&pwd=%E6%B9%96%E5%8D%97&cb=jQuery1102020842320679765847_1517992940135&_=1517992940139, line 1: TypeError: jQuery1102020842320679765847_1517992940135 is not a function
+Unable to read VR Path Registry from C:\Users\dell\AppData\Local\openvr\openvrpaths.vrpath
+[Child 13676, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13676, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1517992958891	geckodriver	INFO	Listening on 127.0.0.1:60632
+1517992960066	geckodriver::marionette	INFO	Starting browser d:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1517992961799	Marionette	INFO	Enabled via --marionette
+1517992965189	Marionette	INFO	Listening on port 60642
+1517992965326	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\dell\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%E5%98%89&json=1&p=3&sid=25639_1444_21110_18559_22074&req=2&csor=1&cb=jQuery110202673842529543691_1517992971969&_=1517992971971, line 1: TypeError: jQuery110202673842529543691_1517992971969 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%E5%98%89%E7%A6%BE&json=1&p=3&sid=25639_1444_21110_18559_22074&req=2&csor=2&pwd=%E5%98%89&cb=jQuery110202673842529543691_1517992971969&_=1517992971972, line 1: TypeError: jQuery110202673842529543691_1517992971969 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%E5%98%89%E7%A6%BE%E5%8E%BF&json=1&p=3&sid=25639_1444_21110_18559_22074&req=2&csor=3&pwd=%E5%98%89%E7%A6%BE&cb=jQuery110202673842529543691_1517992971969&_=1517992971973, line 1: TypeError: jQuery110202673842529543691_1517992971969 is not a function
+Unable to read VR Path Registry from C:\Users\dell\AppData\Local\openvr\openvrpaths.vrpath
+[Child 14220, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
